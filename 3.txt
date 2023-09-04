@@ -1,1 +1,1 @@
-Новый файл 3
+My fix in the 3.txt
