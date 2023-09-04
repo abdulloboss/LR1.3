@@ -1,1 +1,5 @@
-fix in the 3.txt
+<<<<<<< HEAD
+My fix in the 3.txt
+=======
+My fix in the 3.txt
+>>>>>>> branch_2
